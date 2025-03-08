@@ -44,4 +44,5 @@ private double price;
                 ", price=" + price +
                 '}';
     }
+
 }
